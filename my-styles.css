@@ -9,6 +9,10 @@ h2 { margin-bottom: 5px; }
     margin: 5px;
 }
 
+#show-contents {
+    display: none;
+}
+
 .captioned-picture {
     border: 1px solid #c8ccd1;
     padding: 10px;
