@@ -1,0 +1,26 @@
+h2 { margin-bottom: 5px; }
+
+#contents {
+    width: 200px;
+    border: 1px solid black;
+}
+#contents h4 {
+    text-align: center;
+    margin: 5px;
+}
+
+.captioned-picture {
+    border: 1px solid #c8ccd1;
+    padding: 10px;
+    background-color: #f8f9fa;
+    width:300px;
+    font-size: 80%;
+}
+
+.captioned-picture img {
+    width: 300px;
+}
+
+.captioned-picture p {
+    margin: 0;
+}
